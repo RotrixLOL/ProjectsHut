@@ -136,5 +136,17 @@
       "Python",
       "PyQt5"
     ]
+  },
+  {
+    "gh-username": "RotrixLOL",
+    "link": "https://github.com/RotrixLOL/filmpire",
+    "title": "Filmpire",
+    "description": "Discover films with a chatbot integrated.",
+    "tech": [
+      "React",
+      "Redux",
+      "Material UI",
+      "Alan AI"
+    ]
   }
 ]
