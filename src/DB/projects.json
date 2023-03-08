@@ -156,5 +156,16 @@
       "PHP",
       "Regexp"
     ]
+  },
+  {
+    "gh-username": "RotrixLOL",
+    "link": "https://github.com/RotrixLOL/filmpire",
+    "title": "Filmpire",
+    "description": "Discover movies with chatbot experience.",
+    "tech": [
+      "React",
+      "Material UI",
+      "Alan AI"
+    ]
   }
 ]
